@@ -10,7 +10,13 @@ export class AppComponent {
     type:'server',
     name:'Testserver',
     content:'Just test !'
+  },
+  {
+    type:'server',
+    name:'Hssain',
+    content:'Just test  2 !'
   }];
+  
 
 
 }

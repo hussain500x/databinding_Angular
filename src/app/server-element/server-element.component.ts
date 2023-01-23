@@ -7,7 +7,7 @@ import { Component, OnInit,Input } from '@angular/core';
 })
 export class ServerElementComponent implements OnInit {
 
-  @Input() element = {type: String, name: String,content:String };
+  @Input('sevElement')  element : {type: String , name: String,content:String };
 
 
   constructor() { }
