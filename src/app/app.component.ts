@@ -12,7 +12,7 @@ export class AppComponent {
     content:'Just test !'
   },
   {
-    type:'server',
+    type:'blueprint',
     name:'Hssain',
     content:'Just test  2 !'
   }];
